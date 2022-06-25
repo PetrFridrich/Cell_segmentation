@@ -1,0 +1,2 @@
+Number of cells : 647
+Surface coverage : 29.98 %
