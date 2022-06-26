@@ -33,7 +33,7 @@ The aim of this project is to use image processing methods for segmentation of c
       + create images (boundary, centroids, ...)
 
 
-### Refenrences
+## Refenrences
 + https://sisu.ut.ee/imageprocessing/book/1
 + https://www.mygreatlearning.com/blog/introduction-to-image-processing-what-is-image-processing/
 + http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf
