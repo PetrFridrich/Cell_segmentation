@@ -3,7 +3,7 @@ Bachelor thesis - Segmentation of cells from fluorescent microscope images
 
 The aim of this project is to use image processing methods for segmentation of cells acquired by fluorescence microscope and provide additional information about the system.
 
-##Project is divided to several directories
+## Project is divided to several directories
 - Data
 - Results
 - Scripts
@@ -36,5 +36,4 @@ The aim of this project is to use image processing methods for segmentation of c
 ### Refenrences
 + https://sisu.ut.ee/imageprocessing/book/1
 + https://www.mygreatlearning.com/blog/introduction-to-image-processing-what-is-image-processing/
-+ https://towardsdatascience.com/massive-tutorial-on-image-processing-and-preparation-for-deep-learning-in-python-1-e534ee42f122
 + http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf
