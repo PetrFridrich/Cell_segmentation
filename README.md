@@ -24,7 +24,7 @@ The aim of this project is to use image processing methods for segmentation of c
       + provide segmented image
   - image_analysis
       + analyse segmented image
-      + cooperate with shape_descriptors and export worker
+      + cooperate with shape_descriptors and export_worker
   - shape_descriptors
       + compute shape descriptors
       + http://www.cyto.purdue.edu/cdroms/micro2/content/education/wirth10.pdf
